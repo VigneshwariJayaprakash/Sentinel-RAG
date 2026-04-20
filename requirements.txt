@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+pandas
+plotly
+requests
+networkx
+rank-bm25
+langchain-core
+langchain-community
+chromadb
+rapidfuzz
+sentence-transformers
+torch
+torchvision
+ollama
