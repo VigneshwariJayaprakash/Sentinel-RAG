@@ -32,6 +32,11 @@ When model downloads are blocked by network/proxy policy, the engine degrades gr
 - cross-encoder reranking can be skipped
 - screening still returns deterministic `MATCH` / `NO_MATCH` responses
 
+## Pipeline Diagram
+
+<img width="1440" height="1480" alt="image" src="https://github.com/user-attachments/assets/50aab2ef-ce1c-44cc-8198-2f6079302606" />
+
+
 ## How It Works
 
 1. **Graph lookup** tries exact node hits first (entity, alias, ID).
