@@ -1,0 +1,402 @@
+[
+  {
+    "query": "MELLAT BANK CLOSED JOINT-STOCK COMPANY",
+    "label": "MATCH",
+    "entity_number": "25680"
+  },
+  {
+    "query": "mellat bank closed joint-stock company",
+    "label": "MATCH",
+    "entity_number": "25680"
+  },
+  {
+    "query": "MELLAT BANK CLOSED JOINT-STOCK COMPAN",
+    "label": "MATCH",
+    "entity_number": "25680"
+  },
+  {
+    "query": "WASHINGTON TRADING LTD",
+    "label": "MATCH",
+    "entity_number": "28934"
+  },
+  {
+    "query": "washington trading ltd",
+    "label": "MATCH",
+    "entity_number": "28934"
+  },
+  {
+    "query": "WASHINGTON TRADING LT",
+    "label": "MATCH",
+    "entity_number": "28934"
+  },
+  {
+    "query": "MIKHAILIUK, Leonid",
+    "label": "MATCH",
+    "entity_number": "31573"
+  },
+  {
+    "query": "mikhailiuk, leonid",
+    "label": "MATCH",
+    "entity_number": "31573"
+  },
+  {
+    "query": "MIKHAILIUK, Leoni",
+    "label": "MATCH",
+    "entity_number": "31573"
+  },
+  {
+    "query": "SHREEGEE IMPEX PRIVATE LIMITED",
+    "label": "MATCH",
+    "entity_number": "51097"
+  },
+  {
+    "query": "shreegee impex private limited",
+    "label": "MATCH",
+    "entity_number": "51097"
+  },
+  {
+    "query": "SHREEGEE IMPEX PRIVATE LIMITE",
+    "label": "MATCH",
+    "entity_number": "51097"
+  },
+  {
+    "query": "BERMUDEZ VALDERREY, Alberto Mirtiliano",
+    "label": "MATCH",
+    "entity_number": "26426"
+  },
+  {
+    "query": "bermudez valderrey, alberto mirtiliano",
+    "label": "MATCH",
+    "entity_number": "26426"
+  },
+  {
+    "query": "BERMUDEZ VALDERREY, Alberto Mirtilian",
+    "label": "MATCH",
+    "entity_number": "26426"
+  },
+  {
+    "query": "AZIMI, Mohammad Nazar",
+    "label": "MATCH",
+    "entity_number": "40602"
+  },
+  {
+    "query": "azimi, mohammad nazar",
+    "label": "MATCH",
+    "entity_number": "40602"
+  },
+  {
+    "query": "AZIMI, Mohammad Naza",
+    "label": "MATCH",
+    "entity_number": "40602"
+  },
+  {
+    "query": "AL-TIKRITI, Thoraya Barzan Ibrahim Hasan",
+    "label": "MATCH",
+    "entity_number": "8195"
+  },
+  {
+    "query": "al-tikriti, thoraya barzan ibrahim hasan",
+    "label": "MATCH",
+    "entity_number": "8195"
+  },
+  {
+    "query": "AL-TIKRITI, Thoraya Barzan Ibrahim Hasa",
+    "label": "MATCH",
+    "entity_number": "8195"
+  },
+  {
+    "query": "MATADERO METROPOLITANO LTDA.",
+    "label": "MATCH",
+    "entity_number": "6550"
+  },
+  {
+    "query": "matadero metropolitano ltda.",
+    "label": "MATCH",
+    "entity_number": "6550"
+  },
+  {
+    "query": "MATADERO METROPOLITANO LTDA",
+    "label": "MATCH",
+    "entity_number": "6550"
+  },
+  {
+    "query": "POWELL INTERNATIONAL FZE",
+    "label": "MATCH",
+    "entity_number": "55481"
+  },
+  {
+    "query": "powell international fze",
+    "label": "MATCH",
+    "entity_number": "55481"
+  },
+  {
+    "query": "POWELL INTERNATIONAL FZ",
+    "label": "MATCH",
+    "entity_number": "55481"
+  },
+  {
+    "query": "DIAZ LOPEZ, Mateo",
+    "label": "MATCH",
+    "entity_number": "11965"
+  },
+  {
+    "query": "diaz lopez, mateo",
+    "label": "MATCH",
+    "entity_number": "11965"
+  },
+  {
+    "query": "DIAZ LOPEZ, Mate",
+    "label": "MATCH",
+    "entity_number": "11965"
+  },
+  {
+    "query": "BABARIKIN, Vadim Aleksandrovich",
+    "label": "MATCH",
+    "entity_number": "46389"
+  },
+  {
+    "query": "babarikin, vadim aleksandrovich",
+    "label": "MATCH",
+    "entity_number": "46389"
+  },
+  {
+    "query": "BABARIKIN, Vadim Aleksandrovic",
+    "label": "MATCH",
+    "entity_number": "46389"
+  },
+  {
+    "query": "RA-78842",
+    "label": "MATCH",
+    "entity_number": "43186"
+  },
+  {
+    "query": "ra-78842",
+    "label": "MATCH",
+    "entity_number": "43186"
+  },
+  {
+    "query": "RA-7884",
+    "label": "MATCH",
+    "entity_number": "43186"
+  },
+  {
+    "query": "ANOKHIN, Vasiliy Nikolaevich",
+    "label": "MATCH",
+    "entity_number": "44157"
+  },
+  {
+    "query": "anokhin, vasiliy nikolaevich",
+    "label": "MATCH",
+    "entity_number": "44157"
+  },
+  {
+    "query": "ANOKHIN, Vasiliy Nikolaevic",
+    "label": "MATCH",
+    "entity_number": "44157"
+  },
+  {
+    "query": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVO-VYATKA",
+    "label": "MATCH",
+    "entity_number": "18795"
+  },
+  {
+    "query": "otkrytoe aktsionernoe obshchestvo novo-vyatka",
+    "label": "MATCH",
+    "entity_number": "18795"
+  },
+  {
+    "query": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVO-VYATK",
+    "label": "MATCH",
+    "entity_number": "18795"
+  },
+  {
+    "query": "LIMITED LIABILITY COMPANY VECTOR",
+    "label": "MATCH",
+    "entity_number": "49917"
+  },
+  {
+    "query": "limited liability company vector",
+    "label": "MATCH",
+    "entity_number": "49917"
+  },
+  {
+    "query": "LIMITED LIABILITY COMPANY VECTO",
+    "label": "MATCH",
+    "entity_number": "49917"
+  },
+  {
+    "query": "ZHUYKOV, Andrey",
+    "label": "MATCH",
+    "entity_number": "44901"
+  },
+  {
+    "query": "zhuykov, andrey",
+    "label": "MATCH",
+    "entity_number": "44901"
+  },
+  {
+    "query": "ZHUYKOV, Andre",
+    "label": "MATCH",
+    "entity_number": "44901"
+  },
+  {
+    "query": "PEREZ HENAO, Diego",
+    "label": "MATCH",
+    "entity_number": "15528"
+  },
+  {
+    "query": "perez henao, diego",
+    "label": "MATCH",
+    "entity_number": "15528"
+  },
+  {
+    "query": "PEREZ HENAO, Dieg",
+    "label": "MATCH",
+    "entity_number": "15528"
+  },
+  {
+    "query": "PUBLIC JOINT STOCK COMPANY AVTODIZEL YAROSLAVL MOTOR PLANT",
+    "label": "MATCH",
+    "entity_number": "48529"
+  },
+  {
+    "query": "public joint stock company avtodizel yaroslavl motor plant",
+    "label": "MATCH",
+    "entity_number": "48529"
+  },
+  {
+    "query": "PUBLIC JOINT STOCK COMPANY AVTODIZEL YAROSLAVL MOTOR PLAN",
+    "label": "MATCH",
+    "entity_number": "48529"
+  },
+  {
+    "query": "ALEONG, Eddie",
+    "label": "MATCH",
+    "entity_number": "25062"
+  },
+  {
+    "query": "aleong, eddie",
+    "label": "MATCH",
+    "entity_number": "25062"
+  },
+  {
+    "query": "ALEONG, Eddi",
+    "label": "MATCH",
+    "entity_number": "25062"
+  },
+  {
+    "query": "KLINGE, Marco",
+    "label": "MATCH",
+    "entity_number": "56297"
+  },
+  {
+    "query": "klinge, marco",
+    "label": "MATCH",
+    "entity_number": "56297"
+  },
+  {
+    "query": "KLINGE, Marc",
+    "label": "MATCH",
+    "entity_number": "56297"
+  },
+  {
+    "query": "heyvcvvlhh",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "kbarvrbmwh",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "mdranxyidn",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "hredqnrblo",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "emfjbpjztp",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "gmonmhlspe",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "yxxhutidsj",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "nvtjswieis",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "sopnrbrnmd",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "cibxdrhqws",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "qzbzgohsjv",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "mpcsoagppp",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "bgpvzctsbr",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "tfqiiehlpu",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "batynvxlfg",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "mfqqsqazsc",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "uvkvpuuzdt",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "wufvtowhqp",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "eowuepernz",
+    "label": "NO_MATCH",
+    "entity_number": null
+  },
+  {
+    "query": "paxpyphyze",
+    "label": "NO_MATCH",
+    "entity_number": null
+  }
+]
