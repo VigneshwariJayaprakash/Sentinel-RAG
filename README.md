@@ -1,4 +1,4 @@
-# SentinelRAG
+# SentinelRAG - Capstone project
 
 **Hybrid Symbolic-Neural Compliance Screening Engine**
 
