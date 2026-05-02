@@ -1,0 +1,8 @@
+[
+  {"query": "Banco Nacional de Cuba", "label": "MATCH", "entity_number": "306"},
+  {"query": "BNC", "label": "MATCH", "entity_number": "306"},
+  {"query": "La Compania General de Niquel", "label": "MATCH", "entity_number": "3749"},
+  {"query": "Banco Nacional Cuba", "label": "MATCH", "entity_number": "306"},
+  {"query": "Random Fake Company", "label": "NO_MATCH", "entity_number": null},
+  {"query": "erqwerq", "label": "NO_MATCH", "entity_number": null}
+]
